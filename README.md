@@ -1,5 +1,7 @@
 # spigot-cli
 
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/snusbro/spigot-cli)
+
 Simple CLI for Spigot management
 
 ## Commands
